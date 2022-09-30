@@ -21,6 +21,7 @@ int main()
     
     //Printing rquest of user input
     cout << "Please input a number between 2-5\n";
+    
     //Taking the user input
     cin >> uinput;
     
